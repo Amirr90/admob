@@ -17,10 +17,18 @@
             app:exitAnim="@anim/fade_out"
             app:popEnterAnim="@anim/fade_in"
             app:popExitAnim="@anim/fade_out" />
+        <action
+            android:id="@+id/action_homeFragment_to_userList"
+            app:destination="@id/userList" />
     </fragment>
     <fragment
         android:id="@+id/nativeAddsFragment"
         android:name="com.jc_code.googleadds.NativeAddsFragment"
         android:label="fragment_native_adds"
         tools:layout="@layout/fragment_native_adds" />
+    <fragment
+        android:id="@+id/userList"
+        android:name="com.jc_code.googleadds.UserList"
+        android:label="fragment_user_list"
+        tools:layout="@layout/fragment_user_list" />
 </navigation>

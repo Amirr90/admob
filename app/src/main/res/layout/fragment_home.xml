@@ -49,6 +49,12 @@
             android:layout_height="wrap_content"
             android:text="Native Ads"
             app:backgroundTint="@color/purple_200" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="getUserAccount" />
     </LinearLayout>
 
 </FrameLayout>

@@ -34,5 +34,6 @@ public class HomeFragment extends Fragment {
         navController = Navigation.findNavController(view);
 
         binding.btnNAtiveAds.setOnClickListener(v -> navController.navigate(R.id.action_homeFragment_to_nativeAddsFragment));
+        binding.button6.setOnClickListener(v -> navController.navigate(R.id.action_homeFragment_to_userList));
     }
 }

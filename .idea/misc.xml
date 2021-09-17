@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Aamir/StudioProjects/admob/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Aamir/StudioProjects/admob/app/src/main/res/layout/add_account_view.xml" value="0.23324275362318841" />
+        <entry key="..\:/Users/Aamir/StudioProjects/admob/app/src/main/res/layout/email_view.xml" value="0.23324275362318841" />
+        <entry key="..\:/Users/Aamir/StudioProjects/admob/app/src/main/res/layout/fragment_home.xml" value="0.23324275362318841" />
+        <entry key="..\:/Users/Aamir/StudioProjects/admob/app/src/main/res/layout/fragment_user_list.xml" value="0.23324275362318841" />
+      </map>
+    </option>
+  </component>
   <component name="NullableNotNullManager">
     <option name="myDefaultNullable" value="org.jetbrains.annotations.Nullable" />
     <option name="myDefaultNotNull" value="androidx.annotation.NonNull" />
